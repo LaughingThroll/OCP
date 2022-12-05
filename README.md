@@ -1,1 +1,1 @@
-# OCP
+# SOLID
